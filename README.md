@@ -12,5 +12,7 @@ They include steps to reproduce the issue, expected and actual results, as well 
 
 ## Postman
 
-A postman collection has also been included. 
+A postman collection has also been included as extra.
+Postman can be downloaded from https://www.postman.com/downloads/
+Once Postman is downloaded you can import this collection by going to import > file.
 Postman does not allow for multiple connections to run in parallel so this collection does not cover all the test cases. 
