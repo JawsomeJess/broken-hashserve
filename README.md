@@ -5,7 +5,7 @@
 Test cases are located in the testCases.csv file. 
 They include testing steps as well as test execution and results. 
 I included the happy path cases which cover what was listed in the acceptance criteria 
-as well as several negative and exploratory cases to try and find any odd bugs not covered in the AC.
+as well as several negative, exploratory, and boundary cases to try and find any odd bugs not covered in the AC.
 
 ## Bug Report
 
